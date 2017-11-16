@@ -13,7 +13,7 @@
     v-footer(fixed class='no-background')
       span 🖤 #[a(href='https://vuejs.org/' target='_blank') Vue.js]
       v-spacer
-      span 👨‍💻 #[a(href='https://github.com' target='_blank') </> on Github ]
+      span 👨‍💻 #[a(href='https://github.com/newerror/BarovianNameGen' target='_blank') </> on Github ]
 </template>
 
 <script>
