@@ -22,6 +22,10 @@ export default {
 </script>
 
 <style lang="stylus">
+::selection
+  background #b71c1c
+  color white
+
 #app
   background url('/static/images/backgrounds/dark_embroidery.png') fixed
   font-family 'EB Garamond', serif
